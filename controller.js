@@ -15,7 +15,7 @@ function acessar(){
 // FUNÇÃO QUE ARMAZENA EM ARRAY NOME NA TELA DE CADASTRO
  
 var dadosLista = [];
-   // array sem tamnho definido
+   // array sem tamanho definido
  
 function salvarUser(){
     let nomeUser = document.getElementById('nomeUser').value;
